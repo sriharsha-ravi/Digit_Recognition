@@ -12,3 +12,6 @@ We are required to develop a model using Support Vector Machine which should cor
 - Data Cleaning and preparation for Model building
 - Build Model - Hyper parameter tuning
 - Model Evaluation
+
+# Data:
+you can find the data at: https://www.kaggle.com/c/digit-recognizer/data
